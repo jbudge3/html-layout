@@ -1,0 +1,46 @@
+body {
+  margin: 0;
+}
+
+.head {
+  width: 100%;
+  height: 100px;
+  background-color: #d8d8d8;
+}
+
+.blueBox {
+  height: 80px;
+  width: 80px;
+  background-color: #4a90e2;
+  margin: 10px;
+  position: absolute;
+}
+
+.tip {
+  font-family: arial, sans-serif;;
+  padding: 50px;
+}
+
+.blueBar {
+  width: 100%;
+  height: 110px;
+  background-color: #4a90e2;
+}
+
+.tealBar {
+  width: 100%;
+  height: 110px;
+  background-color: #50e3c2;
+}
+
+.yellowGreen {
+  width: 100%;
+  height: 110px;
+  background-color: #b8df86;
+}
+
+.yellowBar {
+  width: 100%;
+  height: 110px;
+  background-color: #f8e71c;
+}
